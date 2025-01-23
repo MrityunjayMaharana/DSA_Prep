@@ -32,4 +32,3 @@ Bit Manipulation is the act of algorithmically manipulating bits or binary digit
 - **[ithBitSetOrNot.cpp](Bit%20Manipulation/ithBitSetOrNot.cpp)**: Checks if the i-th bit of a number is set.
 - **[CheckMissingElement.cpp](Bit%20Manipulation/CheckMissingElement.cpp)**: Finds the missing element in an array of consecutive numbers.
 - **[TotalSetbits.cpp](Bit%20Manipulation/TotalSetbits.cpp)**: Calculates the total number of set bits in a number.
-- **[BitwiseConcept.txt](Bit%20Manipulation/BitwiseConcept.txt)**: Provides a detailed explanation of bitwise operators in C++.
